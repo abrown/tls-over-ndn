@@ -1,0 +1,3 @@
+[submodule "jndn"]
+	path = jndn
+	url = https://github.com/dibenede/jndn
