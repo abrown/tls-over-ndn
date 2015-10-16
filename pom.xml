@@ -6,7 +6,12 @@
 	<groupId>com.intel.jndn.tls_over_ndn</groupId>
 	<artifactId>tls-over-ndn</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
+	
+	<modules>
+		<module>jndn</module>
+		<module>ndn-streams</module>
+	</modules>
 	
 	<licenses>
 		<license>
